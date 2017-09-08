@@ -83,3 +83,16 @@ h5 {
 	font-size: 30px;
 	font-family: Aubrey;
 }
+/* Fonts */
+@font-face {
+  font-family: 'Aubrey';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aubrey Regular'), local('Aubrey-Regular'), url(https://fonts.gstatic.com/s/aubrey/v9/xgahevMliYbKS95vLy_e7A.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Astloch';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Astloch Regular'), local('Astloch-Regular'), url(https://fonts.gstatic.com/s/astloch/v7/MZS6yKXraNNucOWHOsyIng.woff2) format('woff2');
+}
