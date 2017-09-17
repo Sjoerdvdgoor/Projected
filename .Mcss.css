@@ -6,8 +6,9 @@ html {
 	background-size: cover;
 }
 body {
-	background-size: 50%;
-	background-repeat: no-repeat;
+	}
+a, a:visited, a:hover, a:active {
+  color: green;
 }
 /* Title */
 .title {
@@ -59,7 +60,7 @@ body {
 .backbutton{
 	text-align: right;
 	margin-right: 90px;
-	margin-top: -2.5%;
+	margin-top: 10px;
 	color: Navy;
 	font-size: 30px;
 	float: right;
